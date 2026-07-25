@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About me
 
-I'm a software developer focused on complete solutions, from conception to delivery. Passionate about technology, automation, and intuitive interfaces, I enjoy transforming ideas into functional and efficient applications.
+Personal portfolio of Lucas Christian, a Software Engineer working across backend systems, APIs, product engineering, integrations, cloud infrastructure, and user-facing applications.
 
 ## 🌐 My portfolio
 
@@ -11,7 +11,7 @@ I'm a software developer focused on complete solutions, from conception to deliv
 ## 📫 Contact
 
 - **Email:** lucas.christian.programmer@gmail.com  
-- **LinkedIn:** [linkedin.com/in/lucas-christian](https://www.linkedin.com/in/lucas-christian-226846245/)  
+- **LinkedIn:** [linkedin.com/in/dev-luch](linkedin.com/in/dev-luch)  
 - **GitHub:** [github.com/dev-luch](https://github.com/dev-luch)
 
 ---
